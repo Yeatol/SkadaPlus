@@ -1,10 +1,10 @@
-# 简要说明
+## 简要说明
 * SkadaPlus是Skada的增强插件，核心功能是将K/M单位显示替换为万/亿。
 * Skada更新频繁，通过手动修改Skada源码的方式替换显示单位十分繁琐，使用SkadaPlus则不必如此。
 * SkadaPlus使用方法简单，将SkadaPlus文件夹放到Interface/AddOns下即可。
 
-# 当前版本
+## 当前版本
 * 7.3
 
-# 界面预览
+## 界面预览
 ![Image text](https://raw.githubusercontent.com/Yeatol/WOW-SkadaPlus/master/SkadaPlus.jpg)
