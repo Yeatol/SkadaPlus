@@ -100,6 +100,6 @@ end
 
 Event("PLAYER_ENTERING_WORLD", function()
     HookFormatNumber()
-    //CreateSkadaPlus()
-    //AnchorSkadaToChatFrame()
+    --CreateSkadaPlus()
+    --AnchorSkadaToChatFrame()
 end)
