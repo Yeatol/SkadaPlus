@@ -5,7 +5,7 @@
 * 若有内嵌聊天窗口的需求，将SkadaPlus/SkadaPlus.lua中103行和104行注释取消（删除--注释符号）。
 
 ## 当前版本
-* 7.3
+* 8.0
 
 ## 界面预览
 ![Image text](https://raw.githubusercontent.com/Yeatol/WOW-SkadaPlus/master/SkadaPlus.jpg)
