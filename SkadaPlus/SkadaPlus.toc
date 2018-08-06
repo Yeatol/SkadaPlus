@@ -1,4 +1,5 @@
 ## Interface: 80000
+## Author: 苏彩彩
 ## Title: SkadaPlus
 ## Dependencies: Skada
 SkadaPlus.lua
