@@ -8,4 +8,4 @@
 * 8.0
 
 ## 界面预览
-![Image text](https://raw.githubusercontent.com/Yeatol/WOW-SkadaPlus/master/SkadaPlus.jpg)
+![Image text](https://raw.githubusercontent.com/Yeatol/SkadaPlus/master/SkadaPlus.jpg)
